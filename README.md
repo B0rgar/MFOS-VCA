@@ -2,6 +2,7 @@ Ray Wilsons VCA with panel. based on Eagleproject from Gerbster.nl.
 
 imported to kicad. 
 IO board redesigned for thonkicons jacks. 
+increased distance between boards and changed the nibbles
 panel made.
 
 PCBS ordered from JLCPCB. will update after building and testing.
